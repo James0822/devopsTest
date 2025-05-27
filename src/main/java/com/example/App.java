@@ -48,7 +48,7 @@ public class App {
                 "</head>\n" +
                 "<body>\n" +
                 "    <div class=\"container\">\n" +
-                "        <h1>Hello Docker!</h1>\n" +
+                "        <h1>Hello James! You are the best in the world</h1>\n" +
                 "        <div class=\"timestamp\">Server Time: " + timestamp + "</div>\n" +
                 "    </div>\n" +
                 "</body>\n" +
